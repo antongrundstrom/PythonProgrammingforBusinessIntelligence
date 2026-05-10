@@ -1,0 +1,756 @@
+country,country_code,year,holiday_name,holiday_date,holiday_type,source
+United States,US,2011,New Year's Day,2011-01-01,National holiday,Calendarific
+United States,US,2011,Martin Luther King Jr. Day,2011-01-17,National holiday,Calendarific
+United States,US,2011,Presidents' Day,2011-02-21,National holiday,Calendarific
+United States,US,2011,Memorial Day,2011-05-30,National holiday,Calendarific
+United States,US,2011,Independence Day,2011-07-04,National holiday,Calendarific
+United States,US,2011,Labor Day,2011-09-05,National holiday,Calendarific
+United States,US,2011,Columbus Day,2011-10-10,National holiday,Calendarific
+United States,US,2011,Veterans Day,2011-11-11,National holiday,Calendarific
+United States,US,2011,Thanksgiving Day,2011-11-24,National holiday,Calendarific
+United States,US,2011,Christmas Day,2011-12-25,"National holiday, Christian",Calendarific
+United States,US,2011,Christmas Day (substitute),2011-12-26,"National holiday, Christian",Calendarific
+United States,US,2012,New Year's Day,2012-01-01,National holiday,Calendarific
+United States,US,2012,New Year's Day (substitute),2012-01-02,National holiday,Calendarific
+United States,US,2012,Martin Luther King Jr. Day,2012-01-16,National holiday,Calendarific
+United States,US,2012,Presidents' Day,2012-02-20,National holiday,Calendarific
+United States,US,2012,Memorial Day,2012-05-28,National holiday,Calendarific
+United States,US,2012,Independence Day,2012-07-04,National holiday,Calendarific
+United States,US,2012,Labor Day,2012-09-03,National holiday,Calendarific
+United States,US,2012,Columbus Day,2012-10-08,National holiday,Calendarific
+United States,US,2012,Veterans Day,2012-11-11,National holiday,Calendarific
+United States,US,2012,Veterans Day (substitute),2012-11-12,National holiday,Calendarific
+United States,US,2012,Thanksgiving Day,2012-11-22,National holiday,Calendarific
+United States,US,2012,Christmas Day,2012-12-25,"National holiday, Christian",Calendarific
+United States,US,2013,New Year's Day,2013-01-01,National holiday,Calendarific
+United States,US,2013,Inauguration Day,2013-01-20,National holiday,Calendarific
+United States,US,2013,Martin Luther King Jr. Day,2013-01-21,National holiday,Calendarific
+United States,US,2013,Presidents' Day,2013-02-18,National holiday,Calendarific
+United States,US,2013,Memorial Day,2013-05-27,National holiday,Calendarific
+United States,US,2013,Independence Day,2013-07-04,National holiday,Calendarific
+United States,US,2013,Labor Day,2013-09-02,National holiday,Calendarific
+United States,US,2013,Columbus Day,2013-10-14,National holiday,Calendarific
+United States,US,2013,Veterans Day,2013-11-11,National holiday,Calendarific
+United States,US,2013,Thanksgiving Day,2013-11-28,National holiday,Calendarific
+United States,US,2013,Christmas Day,2013-12-25,"National holiday, Christian",Calendarific
+United States,US,2014,New Year's Day,2014-01-01,National holiday,Calendarific
+United States,US,2014,Martin Luther King Jr. Day,2014-01-20,National holiday,Calendarific
+United States,US,2014,Presidents' Day,2014-02-17,National holiday,Calendarific
+United States,US,2014,Memorial Day,2014-05-26,National holiday,Calendarific
+United States,US,2014,Independence Day,2014-07-04,National holiday,Calendarific
+United States,US,2014,Labor Day,2014-09-01,National holiday,Calendarific
+United States,US,2014,Columbus Day,2014-10-13,National holiday,Calendarific
+United States,US,2014,Veterans Day,2014-11-11,National holiday,Calendarific
+United States,US,2014,Thanksgiving Day,2014-11-27,National holiday,Calendarific
+United States,US,2014,Christmas Day,2014-12-25,"National holiday, Christian",Calendarific
+France,FR,2011,New Year's Day,2011-01-01,National holiday,Calendarific
+France,FR,2011,Easter Monday,2011-04-25,National holiday,Calendarific
+France,FR,2011,Labor Day / May Day,2011-05-01,National holiday,Calendarific
+France,FR,2011,WWII Victory Day,2011-05-08,National holiday,Calendarific
+France,FR,2011,Ascension Day,2011-06-02,National holiday,Calendarific
+France,FR,2011,Pentecost Monday,2011-06-13,National holiday,Calendarific
+France,FR,2011,Bastille Day,2011-07-14,National holiday,Calendarific
+France,FR,2011,Assumption of Mary,2011-08-15,National holiday,Calendarific
+France,FR,2011,All Saints' Day,2011-11-01,National holiday,Calendarific
+France,FR,2011,Armistice Day,2011-11-11,National holiday,Calendarific
+France,FR,2011,Christmas Day,2011-12-25,National holiday,Calendarific
+France,FR,2012,New Year's Day,2012-01-01,National holiday,Calendarific
+France,FR,2012,Easter Monday,2012-04-09,National holiday,Calendarific
+France,FR,2012,Labor Day / May Day,2012-05-01,National holiday,Calendarific
+France,FR,2012,WWII Victory Day,2012-05-08,National holiday,Calendarific
+France,FR,2012,Ascension Day,2012-05-17,National holiday,Calendarific
+France,FR,2012,Pentecost Monday,2012-05-28,National holiday,Calendarific
+France,FR,2012,Bastille Day,2012-07-14,National holiday,Calendarific
+France,FR,2012,Assumption of Mary,2012-08-15,National holiday,Calendarific
+France,FR,2012,All Saints' Day,2012-11-01,National holiday,Calendarific
+France,FR,2012,Armistice Day,2012-11-11,National holiday,Calendarific
+France,FR,2012,Christmas Day,2012-12-25,National holiday,Calendarific
+France,FR,2013,New Year's Day,2013-01-01,National holiday,Calendarific
+France,FR,2013,Easter Monday,2013-04-01,National holiday,Calendarific
+France,FR,2013,Labor Day / May Day,2013-05-01,National holiday,Calendarific
+France,FR,2013,WWII Victory Day,2013-05-08,National holiday,Calendarific
+France,FR,2013,Ascension Day,2013-05-09,National holiday,Calendarific
+France,FR,2013,Pentecost Monday,2013-05-20,National holiday,Calendarific
+France,FR,2013,Bastille Day,2013-07-14,National holiday,Calendarific
+France,FR,2013,Assumption of Mary,2013-08-15,National holiday,Calendarific
+France,FR,2013,All Saints' Day,2013-11-01,National holiday,Calendarific
+France,FR,2013,Armistice Day,2013-11-11,National holiday,Calendarific
+France,FR,2013,Christmas Day,2013-12-25,National holiday,Calendarific
+France,FR,2014,New Year's Day,2014-01-01,National holiday,Calendarific
+France,FR,2014,Easter Monday,2014-04-21,National holiday,Calendarific
+France,FR,2014,Labor Day / May Day,2014-05-01,National holiday,Calendarific
+France,FR,2014,WWII Victory Day,2014-05-08,National holiday,Calendarific
+France,FR,2014,Ascension Day,2014-05-29,National holiday,Calendarific
+France,FR,2014,Pentecost Monday,2014-06-09,National holiday,Calendarific
+France,FR,2014,Bastille Day,2014-07-14,National holiday,Calendarific
+France,FR,2014,Assumption of Mary,2014-08-15,National holiday,Calendarific
+France,FR,2014,All Saints' Day,2014-11-01,National holiday,Calendarific
+France,FR,2014,Armistice Day,2014-11-11,National holiday,Calendarific
+France,FR,2014,Christmas Day,2014-12-25,National holiday,Calendarific
+Germany,DE,2011,New Year's Day,2011-01-01,National holiday,Calendarific
+Germany,DE,2011,Good Friday,2011-04-22,"National holiday, Christian",Calendarific
+Germany,DE,2011,Easter Monday,2011-04-25,"National holiday, Christian",Calendarific
+Germany,DE,2011,May Day,2011-05-01,National holiday,Calendarific
+Germany,DE,2011,Ascension Day,2011-06-02,"National holiday, Christian",Calendarific
+Germany,DE,2011,Pentecost Monday,2011-06-13,"National holiday, Christian",Calendarific
+Germany,DE,2011,Day of German Unity,2011-10-03,National holiday,Calendarific
+Germany,DE,2011,Christmas Day,2011-12-25,"National holiday, Christian",Calendarific
+Germany,DE,2011,Boxing Day,2011-12-26,"National holiday, Christian",Calendarific
+Germany,DE,2012,New Year's Day,2012-01-01,National holiday,Calendarific
+Germany,DE,2012,Good Friday,2012-04-06,"National holiday, Christian",Calendarific
+Germany,DE,2012,Easter Monday,2012-04-09,"National holiday, Christian",Calendarific
+Germany,DE,2012,May Day,2012-05-01,National holiday,Calendarific
+Germany,DE,2012,Ascension Day,2012-05-17,"National holiday, Christian",Calendarific
+Germany,DE,2012,Pentecost Monday,2012-05-28,"National holiday, Christian",Calendarific
+Germany,DE,2012,Day of German Unity,2012-10-03,National holiday,Calendarific
+Germany,DE,2012,Christmas Day,2012-12-25,"National holiday, Christian",Calendarific
+Germany,DE,2012,Boxing Day,2012-12-26,"National holiday, Christian",Calendarific
+Germany,DE,2013,New Year's Day,2013-01-01,National holiday,Calendarific
+Germany,DE,2013,Good Friday,2013-03-29,"National holiday, Christian",Calendarific
+Germany,DE,2013,Easter Monday,2013-04-01,"National holiday, Christian",Calendarific
+Germany,DE,2013,May Day,2013-05-01,National holiday,Calendarific
+Germany,DE,2013,Ascension Day,2013-05-09,"National holiday, Christian",Calendarific
+Germany,DE,2013,Pentecost Monday,2013-05-20,"National holiday, Christian",Calendarific
+Germany,DE,2013,Day of German Unity,2013-10-03,National holiday,Calendarific
+Germany,DE,2013,Christmas Day,2013-12-25,"National holiday, Christian",Calendarific
+Germany,DE,2013,Boxing Day,2013-12-26,"National holiday, Christian",Calendarific
+Germany,DE,2014,New Year's Day,2014-01-01,National holiday,Calendarific
+Germany,DE,2014,Good Friday,2014-04-18,"National holiday, Christian",Calendarific
+Germany,DE,2014,Easter Monday,2014-04-21,"National holiday, Christian",Calendarific
+Germany,DE,2014,May Day,2014-05-01,National holiday,Calendarific
+Germany,DE,2014,Ascension Day,2014-05-29,"National holiday, Christian",Calendarific
+Germany,DE,2014,Pentecost Monday,2014-06-09,"National holiday, Christian",Calendarific
+Germany,DE,2014,Day of German Unity,2014-10-03,National holiday,Calendarific
+Germany,DE,2014,Christmas Day,2014-12-25,"National holiday, Christian",Calendarific
+Germany,DE,2014,Boxing Day,2014-12-26,"National holiday, Christian",Calendarific
+United Kingdom,GB,2011,New Year's Day,2011-01-01,National holiday,Calendarific
+United Kingdom,GB,2011,New Year's Day Observed,2011-01-03,National holiday,Calendarific
+United Kingdom,GB,2011,Good Friday,2011-04-22,"National holiday, Christian",Calendarific
+United Kingdom,GB,2011,Royal Wedding Bank Holiday,2011-04-29,National holiday,Calendarific
+United Kingdom,GB,2011,Early May Bank Holiday,2011-05-02,National holiday,Calendarific
+United Kingdom,GB,2011,Spring Bank Holiday,2011-05-30,National holiday,Calendarific
+United Kingdom,GB,2011,Christmas Day,2011-12-25,"National holiday, Christian",Calendarific
+United Kingdom,GB,2011,Boxing Day,2011-12-26,National holiday,Calendarific
+United Kingdom,GB,2011,Substitute Bank Holiday for Christmas Day,2011-12-27,National holiday,Calendarific
+United Kingdom,GB,2012,New Year's Day,2012-01-01,National holiday,Calendarific
+United Kingdom,GB,2012,New Year's Day Observed,2012-01-02,National holiday,Calendarific
+United Kingdom,GB,2012,Good Friday,2012-04-06,"National holiday, Christian",Calendarific
+United Kingdom,GB,2012,Early May Bank Holiday,2012-05-07,National holiday,Calendarific
+United Kingdom,GB,2012,Spring Bank Holiday,2012-06-04,National holiday,Calendarific
+United Kingdom,GB,2012,Queen Elizabeth II's Diamond Jubilee,2012-06-05,National holiday,Calendarific
+United Kingdom,GB,2012,Christmas Day,2012-12-25,"National holiday, Christian",Calendarific
+United Kingdom,GB,2012,Boxing Day,2012-12-26,National holiday,Calendarific
+United Kingdom,GB,2013,New Year's Day,2013-01-01,National holiday,Calendarific
+United Kingdom,GB,2013,Good Friday,2013-03-29,"National holiday, Christian",Calendarific
+United Kingdom,GB,2013,Early May Bank Holiday,2013-05-06,National holiday,Calendarific
+United Kingdom,GB,2013,Spring Bank Holiday,2013-05-27,National holiday,Calendarific
+United Kingdom,GB,2013,Christmas Day,2013-12-25,"National holiday, Christian",Calendarific
+United Kingdom,GB,2013,Boxing Day,2013-12-26,National holiday,Calendarific
+United Kingdom,GB,2014,New Year's Day,2014-01-01,National holiday,Calendarific
+United Kingdom,GB,2014,Good Friday,2014-04-18,"National holiday, Christian",Calendarific
+United Kingdom,GB,2014,Early May Bank Holiday,2014-05-05,National holiday,Calendarific
+United Kingdom,GB,2014,Spring Bank Holiday,2014-05-26,National holiday,Calendarific
+United Kingdom,GB,2014,Christmas Day,2014-12-25,"National holiday, Christian",Calendarific
+United Kingdom,GB,2014,Boxing Day,2014-12-26,National holiday,Calendarific
+Turkey,TR,2011,New Year's Day,2011-01-01,National holiday,Calendarific
+Turkey,TR,2011,National Sovereignty and Children's Day,2011-04-23,National holiday,Calendarific
+Turkey,TR,2011,Labor and Solidarity Day,2011-05-01,National holiday,Calendarific
+Turkey,TR,2011,"Commemoration of Atatürk, Youth and Sports Day",2011-05-19,National holiday,Calendarific
+Turkey,TR,2011,Victory Day,2011-08-30,National holiday,Calendarific
+Turkey,TR,2011,Ramadan Feast,2011-08-30,National holiday,Calendarific
+Turkey,TR,2011,Ramadan Feast Holiday,2011-08-31,National holiday,Calendarific
+Turkey,TR,2011,Ramadan Feast Holiday,2011-09-01,National holiday,Calendarific
+Turkey,TR,2011,Republic Day,2011-10-29,National holiday,Calendarific
+Turkey,TR,2011,Eid al-Adha,2011-11-06,National holiday,Calendarific
+Turkey,TR,2011,Sacrifice Feast Holiday,2011-11-07,National holiday,Calendarific
+Turkey,TR,2011,Sacrifice Feast Holiday,2011-11-08,National holiday,Calendarific
+Turkey,TR,2011,Sacrifice Feast Holiday,2011-11-09,National holiday,Calendarific
+Turkey,TR,2012,New Year's Day,2012-01-01,National holiday,Calendarific
+Turkey,TR,2012,National Sovereignty and Children's Day,2012-04-23,National holiday,Calendarific
+Turkey,TR,2012,Labor and Solidarity Day,2012-05-01,National holiday,Calendarific
+Turkey,TR,2012,"Commemoration of Atatürk, Youth and Sports Day",2012-05-19,National holiday,Calendarific
+Turkey,TR,2012,Ramadan Feast,2012-08-19,National holiday,Calendarific
+Turkey,TR,2012,Ramadan Feast Holiday,2012-08-20,National holiday,Calendarific
+Turkey,TR,2012,Ramadan Feast Holiday,2012-08-21,National holiday,Calendarific
+Turkey,TR,2012,Victory Day,2012-08-30,National holiday,Calendarific
+Turkey,TR,2012,Eid al-Adha,2012-10-25,National holiday,Calendarific
+Turkey,TR,2012,Sacrifice Feast Holiday,2012-10-26,National holiday,Calendarific
+Turkey,TR,2012,Sacrifice Feast Holiday,2012-10-27,National holiday,Calendarific
+Turkey,TR,2012,Sacrifice Feast Holiday,2012-10-28,National holiday,Calendarific
+Turkey,TR,2012,Republic Day,2012-10-29,National holiday,Calendarific
+Turkey,TR,2013,New Year's Day,2013-01-01,National holiday,Calendarific
+Turkey,TR,2013,National Sovereignty and Children's Day,2013-04-23,National holiday,Calendarific
+Turkey,TR,2013,Labor and Solidarity Day,2013-05-01,National holiday,Calendarific
+Turkey,TR,2013,"Commemoration of Atatürk, Youth and Sports Day",2013-05-19,National holiday,Calendarific
+Turkey,TR,2013,Ramadan Feast,2013-08-08,National holiday,Calendarific
+Turkey,TR,2013,Ramadan Feast Holiday,2013-08-09,National holiday,Calendarific
+Turkey,TR,2013,Ramadan Feast Holiday,2013-08-10,National holiday,Calendarific
+Turkey,TR,2013,Victory Day,2013-08-30,National holiday,Calendarific
+Turkey,TR,2013,Eid al-Adha,2013-10-15,National holiday,Calendarific
+Turkey,TR,2013,Sacrifice Feast Holiday,2013-10-16,National holiday,Calendarific
+Turkey,TR,2013,Sacrifice Feast Holiday,2013-10-17,National holiday,Calendarific
+Turkey,TR,2013,Sacrifice Feast Holiday,2013-10-18,National holiday,Calendarific
+Turkey,TR,2013,Republic Day,2013-10-29,National holiday,Calendarific
+Turkey,TR,2014,New Year's Day,2014-01-01,National holiday,Calendarific
+Turkey,TR,2014,National Sovereignty and Children's Day,2014-04-23,National holiday,Calendarific
+Turkey,TR,2014,Labor and Solidarity Day,2014-05-01,National holiday,Calendarific
+Turkey,TR,2014,"Commemoration of Atatürk, Youth and Sports Day",2014-05-19,National holiday,Calendarific
+Turkey,TR,2014,Ramadan Feast,2014-07-28,National holiday,Calendarific
+Turkey,TR,2014,Ramadan Feast Holiday,2014-07-29,National holiday,Calendarific
+Turkey,TR,2014,Ramadan Feast Holiday,2014-07-30,National holiday,Calendarific
+Turkey,TR,2014,Victory Day,2014-08-30,National holiday,Calendarific
+Turkey,TR,2014,Eid al-Adha,2014-10-04,National holiday,Calendarific
+Turkey,TR,2014,Sacrifice Feast Holiday,2014-10-05,National holiday,Calendarific
+Turkey,TR,2014,Sacrifice Feast Holiday,2014-10-06,National holiday,Calendarific
+Turkey,TR,2014,Sacrifice Feast Holiday,2014-10-07,National holiday,Calendarific
+Turkey,TR,2014,Republic Day,2014-10-29,National holiday,Calendarific
+Italy,IT,2011,New Year's Day,2011-01-01,National holiday,Calendarific
+Italy,IT,2011,Epiphany,2011-01-06,National holiday,Calendarific
+Italy,IT,2011,150th Anniversary of National Unity,2011-03-17,National holiday,Calendarific
+Italy,IT,2011,Easter Sunday,2011-04-24,National holiday,Calendarific
+Italy,IT,2011,Easter Monday,2011-04-25,National holiday,Calendarific
+Italy,IT,2011,Liberation Day,2011-04-25,National holiday,Calendarific
+Italy,IT,2011,Labor Day / May Day,2011-05-01,National holiday,Calendarific
+Italy,IT,2011,Republic Day,2011-06-02,National holiday,Calendarific
+Italy,IT,2011,Assumption of Mary,2011-08-15,National holiday,Calendarific
+Italy,IT,2011,All Saints' Day,2011-11-01,National holiday,Calendarific
+Italy,IT,2011,Feast of the Immaculate Conception,2011-12-08,National holiday,Calendarific
+Italy,IT,2011,Christmas Day,2011-12-25,National holiday,Calendarific
+Italy,IT,2011,St. Stephen's Day,2011-12-26,National holiday,Calendarific
+Italy,IT,2012,New Year's Day,2012-01-01,National holiday,Calendarific
+Italy,IT,2012,Epiphany,2012-01-06,National holiday,Calendarific
+Italy,IT,2012,Easter Sunday,2012-04-08,National holiday,Calendarific
+Italy,IT,2012,Easter Monday,2012-04-09,National holiday,Calendarific
+Italy,IT,2012,Liberation Day,2012-04-25,National holiday,Calendarific
+Italy,IT,2012,Labor Day / May Day,2012-05-01,National holiday,Calendarific
+Italy,IT,2012,Republic Day,2012-06-02,National holiday,Calendarific
+Italy,IT,2012,Assumption of Mary,2012-08-15,National holiday,Calendarific
+Italy,IT,2012,All Saints' Day,2012-11-01,National holiday,Calendarific
+Italy,IT,2012,Feast of the Immaculate Conception,2012-12-08,National holiday,Calendarific
+Italy,IT,2012,Christmas Day,2012-12-25,National holiday,Calendarific
+Italy,IT,2012,St. Stephen's Day,2012-12-26,National holiday,Calendarific
+Italy,IT,2013,New Year's Day,2013-01-01,National holiday,Calendarific
+Italy,IT,2013,Epiphany,2013-01-06,National holiday,Calendarific
+Italy,IT,2013,Easter Sunday,2013-03-31,National holiday,Calendarific
+Italy,IT,2013,Easter Monday,2013-04-01,National holiday,Calendarific
+Italy,IT,2013,Liberation Day,2013-04-25,National holiday,Calendarific
+Italy,IT,2013,Labor Day / May Day,2013-05-01,National holiday,Calendarific
+Italy,IT,2013,Republic Day,2013-06-02,National holiday,Calendarific
+Italy,IT,2013,Assumption of Mary,2013-08-15,National holiday,Calendarific
+Italy,IT,2013,All Saints' Day,2013-11-01,National holiday,Calendarific
+Italy,IT,2013,Feast of the Immaculate Conception,2013-12-08,National holiday,Calendarific
+Italy,IT,2013,Christmas Day,2013-12-25,National holiday,Calendarific
+Italy,IT,2013,St. Stephen's Day,2013-12-26,National holiday,Calendarific
+Italy,IT,2014,New Year's Day,2014-01-01,National holiday,Calendarific
+Italy,IT,2014,Epiphany,2014-01-06,National holiday,Calendarific
+Italy,IT,2014,Easter Sunday,2014-04-20,National holiday,Calendarific
+Italy,IT,2014,Easter Monday,2014-04-21,National holiday,Calendarific
+Italy,IT,2014,Liberation Day,2014-04-25,National holiday,Calendarific
+Italy,IT,2014,Labor Day / May Day,2014-05-01,National holiday,Calendarific
+Italy,IT,2014,Republic Day,2014-06-02,National holiday,Calendarific
+Italy,IT,2014,Assumption of Mary,2014-08-15,National holiday,Calendarific
+Italy,IT,2014,All Saints' Day,2014-11-01,National holiday,Calendarific
+Italy,IT,2014,Feast of the Immaculate Conception,2014-12-08,National holiday,Calendarific
+Italy,IT,2014,Christmas Day,2014-12-25,National holiday,Calendarific
+Italy,IT,2014,St. Stephen's Day,2014-12-26,National holiday,Calendarific
+Spain,ES,2011,New Year's Day,2011-01-01,National holiday,Calendarific
+Spain,ES,2011,Epiphany,2011-01-06,National holiday,Calendarific
+Spain,ES,2011,Good Friday,2011-04-22,National holiday,Calendarific
+Spain,ES,2011,Labor Day / May Day,2011-05-01,National holiday,Calendarific
+Spain,ES,2011,Labor Day Observed,2011-05-02,National holiday,Calendarific
+Spain,ES,2011,Assumption of Mary,2011-08-15,National holiday,Calendarific
+Spain,ES,2011,Hispanic Day,2011-10-12,National holiday,Calendarific
+Spain,ES,2011,All Saint's Day Holiday,2011-11-01,National holiday,Calendarific
+Spain,ES,2011,All Saint's Day Holiday,2011-11-01,National holiday,Calendarific
+Spain,ES,2011,Constitution Day,2011-12-06,National holiday,Calendarific
+Spain,ES,2011,Immaculate Conception,2011-12-08,National holiday,Calendarific
+Spain,ES,2011,Christmas Day,2011-12-25,National holiday,Calendarific
+Spain,ES,2012,New Year's Day,2012-01-01,National holiday,Calendarific
+Spain,ES,2012,Epiphany,2012-01-06,National holiday,Calendarific
+Spain,ES,2012,Good Friday,2012-04-06,National holiday,Calendarific
+Spain,ES,2012,Labor Day / May Day,2012-05-01,National holiday,Calendarific
+Spain,ES,2012,Assumption of Mary,2012-08-15,National holiday,Calendarific
+Spain,ES,2012,Hispanic Day,2012-10-12,National holiday,Calendarific
+Spain,ES,2012,All Saint's Day Holiday,2012-11-01,National holiday,Calendarific
+Spain,ES,2012,All Saint's Day Holiday,2012-11-01,National holiday,Calendarific
+Spain,ES,2012,Constitution Day,2012-12-06,National holiday,Calendarific
+Spain,ES,2012,Immaculate Conception,2012-12-08,National holiday,Calendarific
+Spain,ES,2012,Christmas Day,2012-12-25,National holiday,Calendarific
+Spain,ES,2013,New Year's Day,2013-01-01,National holiday,Calendarific
+Spain,ES,2013,Epiphany,2013-01-06,National holiday,Calendarific
+Spain,ES,2013,Good Friday,2013-03-29,National holiday,Calendarific
+Spain,ES,2013,Labor Day / May Day,2013-05-01,National holiday,Calendarific
+Spain,ES,2013,Assumption of Mary,2013-08-15,National holiday,Calendarific
+Spain,ES,2013,Hispanic Day,2013-10-12,National holiday,Calendarific
+Spain,ES,2013,All Saint's Day Holiday,2013-11-01,National holiday,Calendarific
+Spain,ES,2013,All Saint's Day Holiday,2013-11-01,National holiday,Calendarific
+Spain,ES,2013,Constitution Day,2013-12-06,National holiday,Calendarific
+Spain,ES,2013,Immaculate Conception,2013-12-08,National holiday,Calendarific
+Spain,ES,2013,Immaculate Conception Observed,2013-12-09,National holiday,Calendarific
+Spain,ES,2013,Christmas Day,2013-12-25,National holiday,Calendarific
+Spain,ES,2014,New Year's Day,2014-01-01,National holiday,Calendarific
+Spain,ES,2014,Epiphany,2014-01-06,National holiday,Calendarific
+Spain,ES,2014,Good Friday,2014-04-18,National holiday,Calendarific
+Spain,ES,2014,Labor Day / May Day,2014-05-01,National holiday,Calendarific
+Spain,ES,2014,Assumption of Mary,2014-08-15,National holiday,Calendarific
+Spain,ES,2014,Hispanic Day,2014-10-12,National holiday,Calendarific
+Spain,ES,2014,Hispanic Day Observed,2014-10-13,National holiday,Calendarific
+Spain,ES,2014,All Saint's Day Holiday,2014-11-01,National holiday,Calendarific
+Spain,ES,2014,All Saint's Day Holiday,2014-11-01,National holiday,Calendarific
+Spain,ES,2014,Constitution Day,2014-12-06,National holiday,Calendarific
+Spain,ES,2014,Immaculate Conception,2014-12-08,National holiday,Calendarific
+Spain,ES,2014,Christmas Day,2014-12-25,National holiday,Calendarific
+Netherlands,NL,2011,New Year's Day,2011-01-01,National holiday,Calendarific
+Netherlands,NL,2011,Good Friday,2011-04-22,National holiday,Calendarific
+Netherlands,NL,2011,Easter Sunday,2011-04-24,National holiday,Calendarific
+Netherlands,NL,2011,Easter Monday,2011-04-25,National holiday,Calendarific
+Netherlands,NL,2011,Queen's Birthday,2011-04-30,National holiday,Calendarific
+Netherlands,NL,2011,Liberation Day,2011-05-05,National holiday,Calendarific
+Netherlands,NL,2011,Ascension Day,2011-06-02,National holiday,Calendarific
+Netherlands,NL,2011,Pentecost Sunday,2011-06-12,National holiday,Calendarific
+Netherlands,NL,2011,Pentecost Monday,2011-06-13,National holiday,Calendarific
+Netherlands,NL,2011,Christmas Day,2011-12-25,National holiday,Calendarific
+Netherlands,NL,2011,Second Day of Christmas,2011-12-26,National holiday,Calendarific
+Netherlands,NL,2012,New Year's Day,2012-01-01,National holiday,Calendarific
+Netherlands,NL,2012,Good Friday,2012-04-06,National holiday,Calendarific
+Netherlands,NL,2012,Easter Sunday,2012-04-08,National holiday,Calendarific
+Netherlands,NL,2012,Easter Monday,2012-04-09,National holiday,Calendarific
+Netherlands,NL,2012,Queen's Birthday,2012-04-30,National holiday,Calendarific
+Netherlands,NL,2012,Liberation Day,2012-05-05,National holiday,Calendarific
+Netherlands,NL,2012,Ascension Day,2012-05-17,National holiday,Calendarific
+Netherlands,NL,2012,Pentecost Sunday,2012-05-27,National holiday,Calendarific
+Netherlands,NL,2012,Pentecost Monday,2012-05-28,National holiday,Calendarific
+Netherlands,NL,2012,Christmas Day,2012-12-25,National holiday,Calendarific
+Netherlands,NL,2012,Second Day of Christmas,2012-12-26,National holiday,Calendarific
+Netherlands,NL,2013,New Year's Day,2013-01-01,National holiday,Calendarific
+Netherlands,NL,2013,Good Friday,2013-03-29,National holiday,Calendarific
+Netherlands,NL,2013,Easter Sunday,2013-03-31,National holiday,Calendarific
+Netherlands,NL,2013,Easter Monday,2013-04-01,National holiday,Calendarific
+Netherlands,NL,2013,Queen's Birthday,2013-04-30,National holiday,Calendarific
+Netherlands,NL,2013,Liberation Day,2013-05-05,National holiday,Calendarific
+Netherlands,NL,2013,Ascension Day,2013-05-09,National holiday,Calendarific
+Netherlands,NL,2013,Pentecost Sunday,2013-05-19,National holiday,Calendarific
+Netherlands,NL,2013,Pentecost Monday,2013-05-20,National holiday,Calendarific
+Netherlands,NL,2013,Christmas Day,2013-12-25,National holiday,Calendarific
+Netherlands,NL,2013,Second Day of Christmas,2013-12-26,National holiday,Calendarific
+Netherlands,NL,2014,New Year's Day,2014-01-01,National holiday,Calendarific
+Netherlands,NL,2014,Good Friday,2014-04-18,National holiday,Calendarific
+Netherlands,NL,2014,Easter Sunday,2014-04-20,National holiday,Calendarific
+Netherlands,NL,2014,Easter Monday,2014-04-21,National holiday,Calendarific
+Netherlands,NL,2014,King's Birthday,2014-04-26,National holiday,Calendarific
+Netherlands,NL,2014,Liberation Day,2014-05-05,National holiday,Calendarific
+Netherlands,NL,2014,Ascension Day,2014-05-29,National holiday,Calendarific
+Netherlands,NL,2014,Pentecost Sunday,2014-06-08,National holiday,Calendarific
+Netherlands,NL,2014,Pentecost Monday,2014-06-09,National holiday,Calendarific
+Netherlands,NL,2014,Christmas Day,2014-12-25,National holiday,Calendarific
+Netherlands,NL,2014,Second Day of Christmas,2014-12-26,National holiday,Calendarific
+Russia,RU,2011,New Year's Day,2011-01-01,National holiday,Calendarific
+Russia,RU,2011,New Year Holiday,2011-01-03,National holiday,Calendarific
+Russia,RU,2011,New Year Holiday,2011-01-04,National holiday,Calendarific
+Russia,RU,2011,New Year Holiday,2011-01-05,National holiday,Calendarific
+Russia,RU,2011,New Year Holiday,2011-01-06,National holiday,Calendarific
+Russia,RU,2011,Orthodox Christmas Day,2011-01-07,"National holiday, Orthodox",Calendarific
+Russia,RU,2011,Defender of the Fatherland Day,2011-02-23,National holiday,Calendarific
+Russia,RU,2011,International Women's Day,2011-03-08,National holiday,Calendarific
+Russia,RU,2011,Spring and Labor Day,2011-05-01,National holiday,Calendarific
+Russia,RU,2011,Day off for Spring and Labor Day,2011-05-02,National holiday,Calendarific
+Russia,RU,2011,Victory Day,2011-05-09,National holiday,Calendarific
+Russia,RU,2011,Russia Day,2011-06-12,National holiday,Calendarific
+Russia,RU,2011,Day off for Russia Day,2011-06-13,National holiday,Calendarific
+Russia,RU,2011,Unity Day,2011-11-04,National holiday,Calendarific
+Russia,RU,2012,New Year's Day,2012-01-01,National holiday,Calendarific
+Russia,RU,2012,New Year Holiday,2012-01-02,National holiday,Calendarific
+Russia,RU,2012,New Year Holiday,2012-01-03,National holiday,Calendarific
+Russia,RU,2012,New Year Holiday,2012-01-04,National holiday,Calendarific
+Russia,RU,2012,New Year Holiday,2012-01-05,National holiday,Calendarific
+Russia,RU,2012,New Year Holiday,2012-01-06,National holiday,Calendarific
+Russia,RU,2012,Orthodox Christmas Day,2012-01-07,"National holiday, Orthodox",Calendarific
+Russia,RU,2012,New Year Holiday,2012-01-09,National holiday,Calendarific
+Russia,RU,2012,Defender of the Fatherland Day,2012-02-23,National holiday,Calendarific
+Russia,RU,2012,International Women's Day,2012-03-08,National holiday,Calendarific
+Russia,RU,2012,Bridge Public Holiday,2012-03-09,National holiday,Calendarific
+Russia,RU,2012,Spring and Labor Day Holiday,2012-04-30,National holiday,Calendarific
+Russia,RU,2012,Spring and Labor Day,2012-05-01,National holiday,Calendarific
+Russia,RU,2012,Victory Day,2012-05-09,National holiday,Calendarific
+Russia,RU,2012,Russia Day Weekend,2012-06-11,National holiday,Calendarific
+Russia,RU,2012,Russia Day,2012-06-12,National holiday,Calendarific
+Russia,RU,2012,Unity Day,2012-11-04,National holiday,Calendarific
+Russia,RU,2012,Day off for Unity Day,2012-11-05,National holiday,Calendarific
+Russia,RU,2013,New Year's Day,2013-01-01,National holiday,Calendarific
+Russia,RU,2013,New Year Holiday,2013-01-02,National holiday,Calendarific
+Russia,RU,2013,New Year Holiday,2013-01-03,National holiday,Calendarific
+Russia,RU,2013,New Year Holiday,2013-01-04,National holiday,Calendarific
+Russia,RU,2013,Orthodox Christmas Day,2013-01-07,"National holiday, Orthodox",Calendarific
+Russia,RU,2013,New Year Holiday,2013-01-08,National holiday,Calendarific
+Russia,RU,2013,Defender of the Fatherland Day,2013-02-23,National holiday,Calendarific
+Russia,RU,2013,International Women's Day,2013-03-08,National holiday,Calendarific
+Russia,RU,2013,Spring and Labor Day,2013-05-01,National holiday,Calendarific
+Russia,RU,2013,Spring and Labor Day Holiday,2013-05-02,National holiday,Calendarific
+Russia,RU,2013,Spring and Labor Day Holiday,2013-05-03,National holiday,Calendarific
+Russia,RU,2013,Victory Day,2013-05-09,National holiday,Calendarific
+Russia,RU,2013,Substitute Holiday for Defender of the Fatherland Day,2013-05-10,National holiday,Calendarific
+Russia,RU,2013,Victory Day Holiday,2013-05-10,National holiday,Calendarific
+Russia,RU,2013,Russia Day,2013-06-12,National holiday,Calendarific
+Russia,RU,2013,Unity Day,2013-11-04,National holiday,Calendarific
+Russia,RU,2014,New Year's Day,2014-01-01,National holiday,Calendarific
+Russia,RU,2014,New Year Holiday,2014-01-02,National holiday,Calendarific
+Russia,RU,2014,New Year Holiday,2014-01-03,National holiday,Calendarific
+Russia,RU,2014,New Year Holiday,2014-01-06,National holiday,Calendarific
+Russia,RU,2014,Orthodox Christmas Day,2014-01-07,"National holiday, Orthodox",Calendarific
+Russia,RU,2014,New Year Holiday,2014-01-08,National holiday,Calendarific
+Russia,RU,2014,Substitute Holiday for Defender of the Fatherland Day,2014-02-22,National holiday,Calendarific
+Russia,RU,2014,Defender of the Fatherland Day,2014-02-23,National holiday,Calendarific
+Russia,RU,2014,International Women's Day,2014-03-08,National holiday,Calendarific
+Russia,RU,2014,International Womens' Day Holiday,2014-03-09,National holiday,Calendarific
+Russia,RU,2014,Day off for International Women's Day,2014-03-10,National holiday,Calendarific
+Russia,RU,2014,Spring and Labor Day,2014-05-01,National holiday,Calendarific
+Russia,RU,2014,Spring and Labor Day Holiday,2014-05-02,National holiday,Calendarific
+Russia,RU,2014,Spring and Labor Day Holiday,2014-05-03,National holiday,Calendarific
+Russia,RU,2014,Working Day,2014-05-04,National holiday,Calendarific
+Russia,RU,2014,Victory Day,2014-05-09,National holiday,Calendarific
+Russia,RU,2014,Victory Day Holiday,2014-05-10,National holiday,Calendarific
+Russia,RU,2014,Victory Day Holiday 2,2014-05-11,National holiday,Calendarific
+Russia,RU,2014,Russia Day,2014-06-12,National holiday,Calendarific
+Russia,RU,2014,Russia Day Weekend,2014-06-13,National holiday,Calendarific
+Russia,RU,2014,Russia Day Weekend,2014-06-14,National holiday,Calendarific
+Russia,RU,2014,Russia Day Weekend,2014-06-15,National holiday,Calendarific
+Russia,RU,2014,Unity Day Holiday,2014-11-01,National holiday,Calendarific
+Russia,RU,2014,Unity Day Holiday,2014-11-02,National holiday,Calendarific
+Russia,RU,2014,Public Holiday,2014-11-03,National holiday,Calendarific
+Russia,RU,2014,Unity Day,2014-11-04,National holiday,Calendarific
+Ukraine,UA,2011,New Year's Day,2011-01-01,National holiday,Calendarific
+Ukraine,UA,2011,Day off for New Year's Day,2011-01-03,National holiday,Calendarific
+Ukraine,UA,2011,Orthodox Christmas Day,2011-01-07,"National holiday, Orthodox",Calendarific
+Ukraine,UA,2011,International Women's Day,2011-03-08,National holiday,Calendarific
+Ukraine,UA,2011,Orthodox Easter Day,2011-04-24,"National holiday, Orthodox",Calendarific
+Ukraine,UA,2011,Orthodox Easter Monday,2011-04-25,"National holiday, Orthodox",Calendarific
+Ukraine,UA,2011,Labor Day,2011-05-01,National holiday,Calendarific
+Ukraine,UA,2011,Day off for Labor Day,2011-05-02,National holiday,Calendarific
+Ukraine,UA,2011,Victory Day,2011-05-09,National holiday,Calendarific
+Ukraine,UA,2011,Orthodox Pentecost,2011-06-12,"National holiday, Orthodox",Calendarific
+Ukraine,UA,2011,Orthodox Pentecost Holiday,2011-06-13,"National holiday, Orthodox",Calendarific
+Ukraine,UA,2011,Constitution Day,2011-06-28,National holiday,Calendarific
+Ukraine,UA,2011,Independence Day,2011-08-24,National holiday,Calendarific
+Ukraine,UA,2012,New Year's Day,2012-01-01,National holiday,Calendarific
+Ukraine,UA,2012,Day off for New Year's Day,2012-01-02,National holiday,Calendarific
+Ukraine,UA,2012,Orthodox Christmas Day,2012-01-07,"National holiday, Orthodox",Calendarific
+Ukraine,UA,2012,Day off for Orthodox Christmas Day,2012-01-09,"National holiday, Orthodox",Calendarific
+Ukraine,UA,2012,International Women's Day,2012-03-08,National holiday,Calendarific
+Ukraine,UA,2012,Orthodox Easter Day,2012-04-15,"National holiday, Orthodox",Calendarific
+Ukraine,UA,2012,Orthodox Easter Monday,2012-04-16,"National holiday, Orthodox",Calendarific
+Ukraine,UA,2012,Labor Day,2012-05-01,National holiday,Calendarific
+Ukraine,UA,2012,Victory Day,2012-05-09,National holiday,Calendarific
+Ukraine,UA,2012,Orthodox Pentecost,2012-06-03,"National holiday, Orthodox",Calendarific
+Ukraine,UA,2012,Orthodox Pentecost Holiday,2012-06-04,"National holiday, Orthodox",Calendarific
+Ukraine,UA,2012,Constitution Day,2012-06-28,National holiday,Calendarific
+Ukraine,UA,2012,Independence Day,2012-08-24,National holiday,Calendarific
+Ukraine,UA,2013,New Year's Day,2013-01-01,National holiday,Calendarific
+Ukraine,UA,2013,Orthodox Christmas Day,2013-01-07,"National holiday, Orthodox",Calendarific
+Ukraine,UA,2013,International Women's Day,2013-03-08,National holiday,Calendarific
+Ukraine,UA,2013,Labor Day,2013-05-01,National holiday,Calendarific
+Ukraine,UA,2013,Orthodox Easter Day,2013-05-05,"National holiday, Orthodox",Calendarific
+Ukraine,UA,2013,Orthodox Easter Monday,2013-05-06,"National holiday, Orthodox",Calendarific
+Ukraine,UA,2013,Victory Day,2013-05-09,National holiday,Calendarific
+Ukraine,UA,2013,Orthodox Pentecost,2013-06-23,"National holiday, Orthodox",Calendarific
+Ukraine,UA,2013,Orthodox Pentecost Holiday,2013-06-24,"National holiday, Orthodox",Calendarific
+Ukraine,UA,2013,Constitution Day,2013-06-28,National holiday,Calendarific
+Ukraine,UA,2013,Independence Day,2013-08-24,National holiday,Calendarific
+Ukraine,UA,2013,Day off for Independence Day,2013-08-26,National holiday,Calendarific
+Ukraine,UA,2014,New Year's Day,2014-01-01,National holiday,Calendarific
+Ukraine,UA,2014,New Year's Day Holiday,2014-01-02,National holiday,Calendarific
+Ukraine,UA,2014,New Year's Day Holiday,2014-01-03,National holiday,Calendarific
+Ukraine,UA,2014,New Year's Day Holiday,2014-01-06,National holiday,Calendarific
+Ukraine,UA,2014,Orthodox Christmas Day,2014-01-07,"National holiday, Orthodox",Calendarific
+Ukraine,UA,2014,International Women's Day,2014-03-08,National holiday,Calendarific
+Ukraine,UA,2014,Day off for International Women's Day,2014-03-10,National holiday,Calendarific
+Ukraine,UA,2014,Orthodox Easter Day,2014-04-20,"National holiday, Orthodox",Calendarific
+Ukraine,UA,2014,Orthodox Easter Monday,2014-04-21,"National holiday, Orthodox",Calendarific
+Ukraine,UA,2014,Labor Day,2014-05-01,National holiday,Calendarific
+Ukraine,UA,2014,Victory Day,2014-05-09,National holiday,Calendarific
+Ukraine,UA,2014,Orthodox Pentecost,2014-06-08,"National holiday, Orthodox",Calendarific
+Ukraine,UA,2014,Orthodox Pentecost Holiday,2014-06-09,"National holiday, Orthodox",Calendarific
+Ukraine,UA,2014,Constitution Day,2014-06-28,National holiday,Calendarific
+Ukraine,UA,2014,Day off for Constitution Day,2014-06-30,National holiday,Calendarific
+Ukraine,UA,2014,Independence Day,2014-08-24,National holiday,Calendarific
+Ukraine,UA,2014,Day off for Independence Day,2014-08-25,National holiday,Calendarific
+Austria,AT,2011,New Year's Day,2011-01-01,National holiday,Calendarific
+Austria,AT,2011,Epiphany,2011-01-06,National holiday,Calendarific
+Austria,AT,2011,Easter Monday,2011-04-25,National holiday,Calendarific
+Austria,AT,2011,Labor Day / May Day,2011-05-01,National holiday,Calendarific
+Austria,AT,2011,Ascension Day,2011-06-02,National holiday,Calendarific
+Austria,AT,2011,Pentecost Monday,2011-06-13,National holiday,Calendarific
+Austria,AT,2011,Corpus Christi,2011-06-23,National holiday,Calendarific
+Austria,AT,2011,Assumption of Mary,2011-08-15,National holiday,Calendarific
+Austria,AT,2011,National Day,2011-10-26,National holiday,Calendarific
+Austria,AT,2011,All Saints' Day,2011-11-01,National holiday,Calendarific
+Austria,AT,2011,Immaculate Conception,2011-12-08,National holiday,Calendarific
+Austria,AT,2011,Christmas Day,2011-12-25,National holiday,Calendarific
+Austria,AT,2011,St. Stephen's Day,2011-12-26,National holiday,Calendarific
+Austria,AT,2012,New Year's Day,2012-01-01,National holiday,Calendarific
+Austria,AT,2012,Epiphany,2012-01-06,National holiday,Calendarific
+Austria,AT,2012,Easter Monday,2012-04-09,National holiday,Calendarific
+Austria,AT,2012,Labor Day / May Day,2012-05-01,National holiday,Calendarific
+Austria,AT,2012,Ascension Day,2012-05-17,National holiday,Calendarific
+Austria,AT,2012,Pentecost Monday,2012-05-28,National holiday,Calendarific
+Austria,AT,2012,Corpus Christi,2012-06-07,National holiday,Calendarific
+Austria,AT,2012,Assumption of Mary,2012-08-15,National holiday,Calendarific
+Austria,AT,2012,National Day,2012-10-26,National holiday,Calendarific
+Austria,AT,2012,All Saints' Day,2012-11-01,National holiday,Calendarific
+Austria,AT,2012,Immaculate Conception,2012-12-08,National holiday,Calendarific
+Austria,AT,2012,Christmas Day,2012-12-25,National holiday,Calendarific
+Austria,AT,2012,St. Stephen's Day,2012-12-26,National holiday,Calendarific
+Austria,AT,2013,New Year's Day,2013-01-01,National holiday,Calendarific
+Austria,AT,2013,Epiphany,2013-01-06,National holiday,Calendarific
+Austria,AT,2013,Easter Monday,2013-04-01,National holiday,Calendarific
+Austria,AT,2013,Labor Day / May Day,2013-05-01,National holiday,Calendarific
+Austria,AT,2013,Ascension Day,2013-05-09,National holiday,Calendarific
+Austria,AT,2013,Pentecost Monday,2013-05-20,National holiday,Calendarific
+Austria,AT,2013,Corpus Christi,2013-05-30,National holiday,Calendarific
+Austria,AT,2013,Assumption of Mary,2013-08-15,National holiday,Calendarific
+Austria,AT,2013,National Day,2013-10-26,National holiday,Calendarific
+Austria,AT,2013,All Saints' Day,2013-11-01,National holiday,Calendarific
+Austria,AT,2013,Immaculate Conception,2013-12-08,National holiday,Calendarific
+Austria,AT,2013,Christmas Day,2013-12-25,National holiday,Calendarific
+Austria,AT,2013,St. Stephen's Day,2013-12-26,National holiday,Calendarific
+Austria,AT,2014,New Year's Day,2014-01-01,National holiday,Calendarific
+Austria,AT,2014,Epiphany,2014-01-06,National holiday,Calendarific
+Austria,AT,2014,Easter Monday,2014-04-21,National holiday,Calendarific
+Austria,AT,2014,Labor Day / May Day,2014-05-01,National holiday,Calendarific
+Austria,AT,2014,Ascension Day,2014-05-29,National holiday,Calendarific
+Austria,AT,2014,Pentecost Monday,2014-06-09,National holiday,Calendarific
+Austria,AT,2014,Corpus Christi,2014-06-19,National holiday,Calendarific
+Austria,AT,2014,Assumption of Mary,2014-08-15,National holiday,Calendarific
+Austria,AT,2014,National Day,2014-10-26,National holiday,Calendarific
+Austria,AT,2014,All Saints' Day,2014-11-01,National holiday,Calendarific
+Austria,AT,2014,Immaculate Conception,2014-12-08,National holiday,Calendarific
+Austria,AT,2014,Christmas Day,2014-12-25,National holiday,Calendarific
+Austria,AT,2014,St. Stephen's Day,2014-12-26,National holiday,Calendarific
+Poland,PL,2011,New Year's Day,2011-01-01,National holiday,Calendarific
+Poland,PL,2011,Epiphany,2011-01-06,National holiday,Calendarific
+Poland,PL,2011,Easter Sunday,2011-04-24,National holiday,Calendarific
+Poland,PL,2011,Easter Monday,2011-04-25,National holiday,Calendarific
+Poland,PL,2011,Labor Day / May Day,2011-05-01,National holiday,Calendarific
+Poland,PL,2011,Constitution Day,2011-05-03,National holiday,Calendarific
+Poland,PL,2011,Pentecost Sunday,2011-06-12,National holiday,Calendarific
+Poland,PL,2011,Corpus Christi,2011-06-23,National holiday,Calendarific
+Poland,PL,2011,Assumption of Mary,2011-08-15,National holiday,Calendarific
+Poland,PL,2011,All Saints' Day,2011-11-01,National holiday,Calendarific
+Poland,PL,2011,Independence Day,2011-11-11,National holiday,Calendarific
+Poland,PL,2011,Christmas Day,2011-12-25,National holiday,Calendarific
+Poland,PL,2011,Second Day of Christmas,2011-12-26,National holiday,Calendarific
+Poland,PL,2012,New Year's Day,2012-01-01,National holiday,Calendarific
+Poland,PL,2012,Epiphany,2012-01-06,National holiday,Calendarific
+Poland,PL,2012,Easter Sunday,2012-04-08,National holiday,Calendarific
+Poland,PL,2012,Easter Monday,2012-04-09,National holiday,Calendarific
+Poland,PL,2012,Labor Day / May Day,2012-05-01,National holiday,Calendarific
+Poland,PL,2012,Constitution Day,2012-05-03,National holiday,Calendarific
+Poland,PL,2012,Pentecost Sunday,2012-05-27,National holiday,Calendarific
+Poland,PL,2012,Corpus Christi,2012-06-07,National holiday,Calendarific
+Poland,PL,2012,Assumption of Mary,2012-08-15,National holiday,Calendarific
+Poland,PL,2012,All Saints' Day,2012-11-01,National holiday,Calendarific
+Poland,PL,2012,Independence Day,2012-11-11,National holiday,Calendarific
+Poland,PL,2012,Christmas Day,2012-12-25,National holiday,Calendarific
+Poland,PL,2012,Second Day of Christmas,2012-12-26,National holiday,Calendarific
+Poland,PL,2013,New Year's Day,2013-01-01,National holiday,Calendarific
+Poland,PL,2013,Epiphany,2013-01-06,National holiday,Calendarific
+Poland,PL,2013,Easter Sunday,2013-03-31,National holiday,Calendarific
+Poland,PL,2013,Easter Monday,2013-04-01,National holiday,Calendarific
+Poland,PL,2013,Labor Day / May Day,2013-05-01,National holiday,Calendarific
+Poland,PL,2013,Constitution Day,2013-05-03,National holiday,Calendarific
+Poland,PL,2013,Pentecost Sunday,2013-05-19,National holiday,Calendarific
+Poland,PL,2013,Corpus Christi,2013-05-30,National holiday,Calendarific
+Poland,PL,2013,Assumption of Mary,2013-08-15,National holiday,Calendarific
+Poland,PL,2013,All Saints' Day,2013-11-01,National holiday,Calendarific
+Poland,PL,2013,Independence Day,2013-11-11,National holiday,Calendarific
+Poland,PL,2013,Christmas Day,2013-12-25,National holiday,Calendarific
+Poland,PL,2013,Second Day of Christmas,2013-12-26,National holiday,Calendarific
+Poland,PL,2014,New Year's Day,2014-01-01,National holiday,Calendarific
+Poland,PL,2014,Epiphany,2014-01-06,National holiday,Calendarific
+Poland,PL,2014,Easter Sunday,2014-04-20,National holiday,Calendarific
+Poland,PL,2014,Easter Monday,2014-04-21,National holiday,Calendarific
+Poland,PL,2014,Labor Day / May Day,2014-05-01,National holiday,Calendarific
+Poland,PL,2014,Constitution Day,2014-05-03,National holiday,Calendarific
+Poland,PL,2014,Pentecost Sunday,2014-06-08,National holiday,Calendarific
+Poland,PL,2014,Corpus Christi,2014-06-19,National holiday,Calendarific
+Poland,PL,2014,Assumption of Mary,2014-08-15,National holiday,Calendarific
+Poland,PL,2014,All Saints' Day,2014-11-01,National holiday,Calendarific
+Poland,PL,2014,Independence Day,2014-11-11,National holiday,Calendarific
+Poland,PL,2014,Christmas Day,2014-12-25,National holiday,Calendarific
+Poland,PL,2014,Second Day of Christmas,2014-12-26,National holiday,Calendarific
+Sweden,SE,2011,New Year's Day,2011-01-01,National holiday,Calendarific
+Sweden,SE,2011,Epiphany,2011-01-06,National holiday,Calendarific
+Sweden,SE,2011,Good Friday,2011-04-22,National holiday,Calendarific
+Sweden,SE,2011,Easter Sunday,2011-04-24,National holiday,Calendarific
+Sweden,SE,2011,Easter Monday,2011-04-25,National holiday,Calendarific
+Sweden,SE,2011,May 1st,2011-05-01,National holiday,Calendarific
+Sweden,SE,2011,Ascension Day,2011-06-02,National holiday,Calendarific
+Sweden,SE,2011,National day,2011-06-06,National holiday,Calendarific
+Sweden,SE,2011,Pentecost Sunday,2011-06-12,National holiday,Calendarific
+Sweden,SE,2011,Midsummer Day,2011-06-25,National holiday,Calendarific
+Sweden,SE,2011,All Saints' Day,2011-11-05,National holiday,Calendarific
+Sweden,SE,2011,Christmas Day,2011-12-25,National holiday,Calendarific
+Sweden,SE,2011,Boxing Day,2011-12-26,National holiday,Calendarific
+Sweden,SE,2012,New Year's Day,2012-01-01,National holiday,Calendarific
+Sweden,SE,2012,Epiphany,2012-01-06,National holiday,Calendarific
+Sweden,SE,2012,Good Friday,2012-04-06,National holiday,Calendarific
+Sweden,SE,2012,Easter Sunday,2012-04-08,National holiday,Calendarific
+Sweden,SE,2012,Easter Monday,2012-04-09,National holiday,Calendarific
+Sweden,SE,2012,May 1st,2012-05-01,National holiday,Calendarific
+Sweden,SE,2012,Ascension Day,2012-05-17,National holiday,Calendarific
+Sweden,SE,2012,Pentecost Sunday,2012-05-27,National holiday,Calendarific
+Sweden,SE,2012,National day,2012-06-06,National holiday,Calendarific
+Sweden,SE,2012,Midsummer Day,2012-06-23,National holiday,Calendarific
+Sweden,SE,2012,All Saints' Day,2012-11-03,National holiday,Calendarific
+Sweden,SE,2012,Christmas Day,2012-12-25,National holiday,Calendarific
+Sweden,SE,2012,Boxing Day,2012-12-26,National holiday,Calendarific
+Sweden,SE,2013,New Year's Day,2013-01-01,National holiday,Calendarific
+Sweden,SE,2013,Epiphany,2013-01-06,National holiday,Calendarific
+Sweden,SE,2013,Good Friday,2013-03-29,National holiday,Calendarific
+Sweden,SE,2013,Easter Sunday,2013-03-31,National holiday,Calendarific
+Sweden,SE,2013,Easter Monday,2013-04-01,National holiday,Calendarific
+Sweden,SE,2013,May 1st,2013-05-01,National holiday,Calendarific
+Sweden,SE,2013,Ascension Day,2013-05-09,National holiday,Calendarific
+Sweden,SE,2013,Pentecost Sunday,2013-05-19,National holiday,Calendarific
+Sweden,SE,2013,National day,2013-06-06,National holiday,Calendarific
+Sweden,SE,2013,Midsummer Day,2013-06-22,National holiday,Calendarific
+Sweden,SE,2013,All Saints' Day,2013-11-02,National holiday,Calendarific
+Sweden,SE,2013,Christmas Day,2013-12-25,National holiday,Calendarific
+Sweden,SE,2013,Boxing Day,2013-12-26,National holiday,Calendarific
+Sweden,SE,2014,New Year's Day,2014-01-01,National holiday,Calendarific
+Sweden,SE,2014,Epiphany,2014-01-06,National holiday,Calendarific
+Sweden,SE,2014,Good Friday,2014-04-18,National holiday,Calendarific
+Sweden,SE,2014,Easter Sunday,2014-04-20,National holiday,Calendarific
+Sweden,SE,2014,Easter Monday,2014-04-21,National holiday,Calendarific
+Sweden,SE,2014,May 1st,2014-05-01,National holiday,Calendarific
+Sweden,SE,2014,Ascension Day,2014-05-29,National holiday,Calendarific
+Sweden,SE,2014,National day,2014-06-06,National holiday,Calendarific
+Sweden,SE,2014,Pentecost Sunday,2014-06-08,National holiday,Calendarific
+Sweden,SE,2014,Midsummer Day,2014-06-21,National holiday,Calendarific
+Sweden,SE,2014,All Saints' Day,2014-11-01,National holiday,Calendarific
+Sweden,SE,2014,Christmas Day,2014-12-25,National holiday,Calendarific
+Sweden,SE,2014,Boxing Day,2014-12-26,National holiday,Calendarific
+Romania,RO,2011,New Year's Day,2011-01-01,National holiday,Calendarific
+Romania,RO,2011,Day after New Year's Day,2011-01-02,National holiday,Calendarific
+Romania,RO,2011,Orthodox Easter Day,2011-04-24,"National holiday, Orthodox",Calendarific
+Romania,RO,2011,Orthodox Easter Monday,2011-04-25,"National holiday, Orthodox",Calendarific
+Romania,RO,2011,Labor Day / May Day,2011-05-01,National holiday,Calendarific
+Romania,RO,2011,Orthodox Pentecost,2011-06-12,"National holiday, Orthodox",Calendarific
+Romania,RO,2011,Orthodox Pentecost Monday,2011-06-13,"National holiday, Orthodox",Calendarific
+Romania,RO,2011,St Mary's Day,2011-08-15,National holiday,Calendarific
+Romania,RO,2011,National Day,2011-12-01,National holiday,Calendarific
+Romania,RO,2011,Christmas Day,2011-12-25,National holiday,Calendarific
+Romania,RO,2011,Second day of Christmas,2011-12-26,National holiday,Calendarific
+Romania,RO,2012,New Year's Day,2012-01-01,National holiday,Calendarific
+Romania,RO,2012,Day after New Year's Day,2012-01-02,National holiday,Calendarific
+Romania,RO,2012,Orthodox Easter Day,2012-04-15,"National holiday, Orthodox",Calendarific
+Romania,RO,2012,Orthodox Easter Monday,2012-04-16,"National holiday, Orthodox",Calendarific
+Romania,RO,2012,Labor Day / May Day,2012-05-01,National holiday,Calendarific
+Romania,RO,2012,Orthodox Pentecost,2012-06-03,"National holiday, Orthodox",Calendarific
+Romania,RO,2012,Orthodox Pentecost Monday,2012-06-04,"National holiday, Orthodox",Calendarific
+Romania,RO,2012,St Mary's Day,2012-08-15,National holiday,Calendarific
+Romania,RO,2012,St Andrew's Day,2012-11-30,National holiday,Calendarific
+Romania,RO,2012,National Day,2012-12-01,National holiday,Calendarific
+Romania,RO,2012,Christmas Day,2012-12-25,National holiday,Calendarific
+Romania,RO,2012,Second day of Christmas,2012-12-26,National holiday,Calendarific
+Romania,RO,2013,New Year's Day,2013-01-01,National holiday,Calendarific
+Romania,RO,2013,Day after New Year's Day,2013-01-02,National holiday,Calendarific
+Romania,RO,2013,Labor Day / May Day,2013-05-01,National holiday,Calendarific
+Romania,RO,2013,Public Holiday,2013-05-02,National holiday,Calendarific
+Romania,RO,2013,Public Holiday 2,2013-05-03,National holiday,Calendarific
+Romania,RO,2013,Orthodox Easter Day,2013-05-05,"National holiday, Orthodox",Calendarific
+Romania,RO,2013,Orthodox Easter Monday,2013-05-06,"National holiday, Orthodox",Calendarific
+Romania,RO,2013,Orthodox Pentecost,2013-06-23,"National holiday, Orthodox",Calendarific
+Romania,RO,2013,Orthodox Pentecost Monday,2013-06-24,"National holiday, Orthodox",Calendarific
+Romania,RO,2013,St Mary's Day,2013-08-15,National holiday,Calendarific
+Romania,RO,2013,St Andrew's Day,2013-11-30,National holiday,Calendarific
+Romania,RO,2013,National Day,2013-12-01,National holiday,Calendarific
+Romania,RO,2013,Christmas Day,2013-12-25,National holiday,Calendarific
+Romania,RO,2013,Second day of Christmas,2013-12-26,National holiday,Calendarific
+Romania,RO,2014,New Year's Day,2014-01-01,National holiday,Calendarific
+Romania,RO,2014,Day after New Year's Day,2014-01-02,National holiday,Calendarific
+Romania,RO,2014,Orthodox Easter Day,2014-04-20,"National holiday, Orthodox",Calendarific
+Romania,RO,2014,Orthodox Easter Monday,2014-04-21,"National holiday, Orthodox",Calendarific
+Romania,RO,2014,Labor Day / May Day,2014-05-01,National holiday,Calendarific
+Romania,RO,2014,Orthodox Pentecost,2014-06-08,"National holiday, Orthodox",Calendarific
+Romania,RO,2014,Orthodox Pentecost Monday,2014-06-09,"National holiday, Orthodox",Calendarific
+Romania,RO,2014,St Mary's Day,2014-08-15,National holiday,Calendarific
+Romania,RO,2014,St Andrew's Day,2014-11-30,National holiday,Calendarific
+Romania,RO,2014,National Day,2014-12-01,National holiday,Calendarific
+Romania,RO,2014,Christmas Day,2014-12-25,National holiday,Calendarific
+Romania,RO,2014,Second day of Christmas,2014-12-26,National holiday,Calendarific
+Belgium,BE,2011,New Year's Day,2011-01-01,National holiday,Calendarific
+Belgium,BE,2011,Easter Monday,2011-04-25,National holiday,Calendarific
+Belgium,BE,2011,Labor Day / May Day,2011-05-01,National holiday,Calendarific
+Belgium,BE,2011,Ascension Day,2011-06-02,National holiday,Calendarific
+Belgium,BE,2011,Pentecost Monday,2011-06-13,National holiday,Calendarific
+Belgium,BE,2011,Belgian National Day,2011-07-21,National holiday,Calendarific
+Belgium,BE,2011,Assumption of Mary,2011-08-15,National holiday,Calendarific
+Belgium,BE,2011,All Saints' Day,2011-11-01,National holiday,Calendarific
+Belgium,BE,2011,Armistice Day,2011-11-11,National holiday,Calendarific
+Belgium,BE,2011,Christmas Day,2011-12-25,National holiday,Calendarific
+Belgium,BE,2012,New Year's Day,2012-01-01,National holiday,Calendarific
+Belgium,BE,2012,Easter Monday,2012-04-09,National holiday,Calendarific
+Belgium,BE,2012,Labor Day / May Day,2012-05-01,National holiday,Calendarific
+Belgium,BE,2012,Ascension Day,2012-05-17,National holiday,Calendarific
+Belgium,BE,2012,Pentecost Monday,2012-05-28,National holiday,Calendarific
+Belgium,BE,2012,Belgian National Day,2012-07-21,National holiday,Calendarific
+Belgium,BE,2012,Assumption of Mary,2012-08-15,National holiday,Calendarific
+Belgium,BE,2012,All Saints' Day,2012-11-01,National holiday,Calendarific
+Belgium,BE,2012,Armistice Day,2012-11-11,National holiday,Calendarific
+Belgium,BE,2012,Christmas Day,2012-12-25,National holiday,Calendarific
+Belgium,BE,2013,New Year's Day,2013-01-01,National holiday,Calendarific
+Belgium,BE,2013,Easter Monday,2013-04-01,National holiday,Calendarific
+Belgium,BE,2013,Labor Day / May Day,2013-05-01,National holiday,Calendarific
+Belgium,BE,2013,Ascension Day,2013-05-09,National holiday,Calendarific
+Belgium,BE,2013,Pentecost Monday,2013-05-20,National holiday,Calendarific
+Belgium,BE,2013,Belgian National Day,2013-07-21,National holiday,Calendarific
+Belgium,BE,2013,Assumption of Mary,2013-08-15,National holiday,Calendarific
+Belgium,BE,2013,All Saints' Day,2013-11-01,National holiday,Calendarific
+Belgium,BE,2013,Armistice Day,2013-11-11,National holiday,Calendarific
+Belgium,BE,2013,Christmas Day,2013-12-25,National holiday,Calendarific
+Belgium,BE,2014,New Year's Day,2014-01-01,National holiday,Calendarific
+Belgium,BE,2014,Easter Monday,2014-04-21,National holiday,Calendarific
+Belgium,BE,2014,Labor Day / May Day,2014-05-01,National holiday,Calendarific
+Belgium,BE,2014,Ascension Day,2014-05-29,National holiday,Calendarific
+Belgium,BE,2014,Pentecost Monday,2014-06-09,National holiday,Calendarific
+Belgium,BE,2014,Belgian National Day,2014-07-21,National holiday,Calendarific
+Belgium,BE,2014,Assumption of Mary,2014-08-15,National holiday,Calendarific
+Belgium,BE,2014,All Saints' Day,2014-11-01,National holiday,Calendarific
+Belgium,BE,2014,Armistice Day,2014-11-11,National holiday,Calendarific
+Belgium,BE,2014,Christmas Day,2014-12-25,National holiday,Calendarific
+Ireland,IE,2011,New Year's Day,2011-01-01,National holiday,Calendarific
+Ireland,IE,2011,St. Patrick's Day,2011-03-17,National holiday,Calendarific
+Ireland,IE,2011,Easter Monday,2011-04-25,National holiday,Calendarific
+Ireland,IE,2011,May Day,2011-05-02,National holiday,Calendarific
+Ireland,IE,2011,June Bank Holiday,2011-06-06,National holiday,Calendarific
+Ireland,IE,2011,August Bank Holiday,2011-08-01,National holiday,Calendarific
+Ireland,IE,2011,October Bank Holiday,2011-10-31,National holiday,Calendarific
+Ireland,IE,2011,Christmas Day,2011-12-25,National holiday,Calendarific
+Ireland,IE,2011,St. Stephen's Day,2011-12-26,National holiday,Calendarific
+Ireland,IE,2012,New Year's Day,2012-01-01,National holiday,Calendarific
+Ireland,IE,2012,St. Patrick's Day,2012-03-17,National holiday,Calendarific
+Ireland,IE,2012,Easter Monday,2012-04-09,National holiday,Calendarific
+Ireland,IE,2012,May Day,2012-05-07,National holiday,Calendarific
+Ireland,IE,2012,June Bank Holiday,2012-06-04,National holiday,Calendarific
+Ireland,IE,2012,August Bank Holiday,2012-08-06,National holiday,Calendarific
+Ireland,IE,2012,October Bank Holiday,2012-10-29,National holiday,Calendarific
+Ireland,IE,2012,Christmas Day,2012-12-25,National holiday,Calendarific
+Ireland,IE,2012,St. Stephen's Day,2012-12-26,National holiday,Calendarific
+Ireland,IE,2013,New Year's Day,2013-01-01,National holiday,Calendarific
+Ireland,IE,2013,St. Patrick's Day,2013-03-17,National holiday,Calendarific
+Ireland,IE,2013,Easter Monday,2013-04-01,National holiday,Calendarific
+Ireland,IE,2013,May Day,2013-05-06,National holiday,Calendarific
+Ireland,IE,2013,June Bank Holiday,2013-06-03,National holiday,Calendarific
+Ireland,IE,2013,August Bank Holiday,2013-08-05,National holiday,Calendarific
+Ireland,IE,2013,October Bank Holiday,2013-10-28,National holiday,Calendarific
+Ireland,IE,2013,Christmas Day,2013-12-25,National holiday,Calendarific
+Ireland,IE,2013,St. Stephen's Day,2013-12-26,National holiday,Calendarific
+Ireland,IE,2014,New Year's Day,2014-01-01,National holiday,Calendarific
+Ireland,IE,2014,St. Patrick's Day,2014-03-17,National holiday,Calendarific
+Ireland,IE,2014,Easter Monday,2014-04-21,National holiday,Calendarific
+Ireland,IE,2014,May Day,2014-05-05,National holiday,Calendarific
+Ireland,IE,2014,June Bank Holiday,2014-06-02,National holiday,Calendarific
+Ireland,IE,2014,August Bank Holiday,2014-08-04,National holiday,Calendarific
+Ireland,IE,2014,October Bank Holiday,2014-10-27,National holiday,Calendarific
+Ireland,IE,2014,Christmas Day,2014-12-25,National holiday,Calendarific
+Ireland,IE,2014,St. Stephen's Day,2014-12-26,National holiday,Calendarific
